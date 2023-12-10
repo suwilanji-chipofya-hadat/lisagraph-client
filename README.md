@@ -1,6 +1,6 @@
 **Lisa Graph Documentation**
 
-![LISA GRAPH]('/assets/logo.png')
+![LISA GRAPH](/assets/logo.png)
 
 **Tech Stack:**
 - **Vite:** Speedy build tool optimizing development.
